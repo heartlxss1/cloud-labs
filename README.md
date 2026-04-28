@@ -53,5 +53,3 @@ Become a Cloud Engineer, focusing on:
 Lab evidence (screenshots and tests) will be added to the `assets/` folder.
 
 ---
-
-feat: translate README to english
