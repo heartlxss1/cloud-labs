@@ -50,6 +50,6 @@ Become a Cloud Engineer, focusing on:
 
 ## 📸 Evidence
 
-Lab evidence (screenshots and tests) will be added to the `assets/` folder.
+Lab evidence (screenshots and tests) are available in the assets/ folder.
 
 ---
