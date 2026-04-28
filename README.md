@@ -1,4 +1,4 @@
-# ☁️ Cloud Labs - Thiago Almeida
+# ☁️ Cloud Labs - Thiago Ferreira
 
 Repositório com meus estudos práticos em Cloud Computing e Infraestrutura.
 
