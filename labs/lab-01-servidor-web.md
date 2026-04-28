@@ -92,7 +92,7 @@ Replace with:
 
 ```html
 <h1>My First Web Server</h1>
-<p>Deployed by Thiago Almeida</p>
+<p>Deployed by Thiago Ferreira</p>
 ```
 
 Save:
