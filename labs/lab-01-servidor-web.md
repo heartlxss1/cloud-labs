@@ -168,23 +168,3 @@ This lab simulates a basic web server deployment used in:
 * Hosting simple applications
 * Internal company systems
 * Initial cloud environments
-
----
-
-## 📚 Key Learnings
-
-* Linux service management
-* Web server deployment
-* Basic networking concepts
-* Troubleshooting services
-* Cloud deployment workflow
-
----
-
-## 🔄 Next Steps
-
-* Deploy in real cloud environment
-* Configure multiple servers
-* Implement load balancing
-* Automate with Terraform
-
